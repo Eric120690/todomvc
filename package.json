@@ -2,7 +2,7 @@
   "name": "todomvc",
   "version": "0.1.2",
   "engines": {
-    "node": "18.x"
+    "node": "24.x"
   },
   "main": "server.js",
   "files": [
